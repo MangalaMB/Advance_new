@@ -25,7 +25,7 @@ public class CreateProduct {
 
 	@Test()  
 	//(groups= "Integration")
-	public void CreateProductTest() throws IOException, InterruptedException {
+	public void addProductTest() throws IOException, InterruptedException {
 		PropertiesFileUtility propUtil=new PropertiesFileUtility();
 		String BROWSER = propUtil.readingDataFromPropFile("browser");
 		String URL = propUtil.readingDataFromPropFile("url");
