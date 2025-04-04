@@ -28,7 +28,7 @@ import genericBaseClassUtility.BaseClass;
 import genericListnerUtility.ListenerImp;
 
 //@Listeners(ListenerImp.class)
-public class CreateCampaignnTest extends BaseClass{
+public class CreateCampaignTest extends BaseClass{
 	
 //	@Parameters("browser")
 // @Test (invocationCount = 4, threadPoolSize = 4, priority=1)
