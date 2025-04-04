@@ -21,7 +21,7 @@ import ObjectRepository.LoginPage;
 import ObjectRepository.ProductsPage;
 
 //@Listeners
-public class CreateProductTest {
+public class CreateProducttTest {
 
 	@Test()  
 	//(groups= "Integration")

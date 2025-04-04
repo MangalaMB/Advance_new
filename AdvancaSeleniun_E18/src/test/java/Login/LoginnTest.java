@@ -30,7 +30,7 @@ import genericBaseClassUtility.BaseClass;
 import genericListnerUtility.ListenerImp;
 
 //@Listeners(ListenerImp.class)
-public class LoginTest extends BaseClass {
+public class LoginnTest extends BaseClass {
 
 	//@Parameters("browser")
 	@Test(groups= {"SmokeTest"})
