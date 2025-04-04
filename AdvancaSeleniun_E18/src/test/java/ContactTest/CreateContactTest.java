@@ -47,7 +47,7 @@ public class CreateContactTest extends BaseClass {
 
 	//@Parameters("browser")
 	@Test(groups= {"RegressionTest"})
-	public void createConatctWithCampaignTestDate() throws IOException, InterruptedException {
+	public void createConatctWithCampaignTest() throws IOException, InterruptedException {
 		JavaUtility jUtil=new JavaUtility();
 		int randomNum = jUtil.getRandomNum(10000);
 		
